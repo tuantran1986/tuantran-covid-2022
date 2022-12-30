@@ -1,0 +1,13 @@
+h1 {
+  margin-bottom: 0px;
+}
+
+button.ant-btn.ant-btn-primary.ant-btn-background-ghost:hover {
+  background-color: #1890ff!important;
+  color: white;
+}
+
+tr.ant-table-row.ant-table-row-level-0:hover {
+  font-weight: bold;
+  color:  #1890ff;
+}
